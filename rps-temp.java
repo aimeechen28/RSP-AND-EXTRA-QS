@@ -1,3 +1,6 @@
+//Mr Pelletier. My RPS project disappeared.... But I have saved a picture of it...and you checked and talked 
+//with me the problems on Oct 18 2019
+
 import java.util.Scanner;
 
 public class rps {
